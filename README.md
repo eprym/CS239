@@ -1,1 +1,1 @@
-# CS239
+# A music recommendation system
